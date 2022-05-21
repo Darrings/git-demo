@@ -1,8 +1,2 @@
-hello git hello world
-hello git hello git
-hello git 111111
-hello git
-hello git
-hello git
-22222222222222222222
-333333333333 by lhc
+hello git hello 
+hello git hello 
